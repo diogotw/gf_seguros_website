@@ -135,7 +135,7 @@ body {
     align-items: center;
     justify-content: center;
     position: relative;
-    padding-top: 80px;
+    padding-top: 5px;
     background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%);
     overflow: hidden;
 }
